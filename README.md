@@ -67,8 +67,8 @@
 ## 📁 Structure
 
 ```
-├── model1_detection.ipynb      # YOLOv8s 파인튜닝
-├── model2_classification.ipynb # EfficientNet-B0 행동 분류
+├── boarsommelier-model1.ipynb      # YOLOv8s 파인튜닝 (Detection)
+├── boarsommelier-model2.ipynb # EfficientNet-B0 행동 분류 (Classification)
 ├── boarsommelier-demo.ipynb    # 전체 파이프라인 통합 + 데모
 ├── pipeline.png                # 파이프라인 구조도
 └── README.md
